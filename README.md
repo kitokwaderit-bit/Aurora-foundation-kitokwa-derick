@@ -1,4 +1,4 @@
-
+[home.html.html](https://github.com/user-attachments/files/23568501/home.html.html)
 <!doctype html>
 <head>
     <meta charset="UTF-8">
@@ -8,7 +8,8 @@
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <body>
         
-
+<p>h</p>
+<p>h</p>
     <title>Aurora Global Foundation </title>
 </head>
 <h1 style="color: brown; text-shadow: 0ch;">Welcome to</h1>
