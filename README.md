@@ -7,8 +7,6 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon">
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <body>
-    <title>Aurora Global Foundation </title>
-</head>
 <h1 style="color: brown; text-shadow: 0ch;">Welcome to</h1>
 <h1 style="color: rgb(9, 50, 236);">Aurora Global Foundation</h1>
 </ul>
@@ -20,7 +18,7 @@
 <p>Aurora works with multilateral agencies, private foundations, impact investors, and local governments to co-design scalable programs. Current partners include the Global Fund for Development, SunCap Energy, the Open Learning Trust, and the Clean Water Coalition.</p>
 <div class="logos" aria-hidden="true">
 <!-- Placeholder logos — replace with real images when available -->
-<img src="c:\Users\1\Desktop\final\b.jpg" alt="c:\Users\1\Desktop\final\b.jpg" style="height:280px;margin-right:12px">
+<img src="b.jpg" alt="b.jpg" style="height:280px;margin-right:12px">
 <img src="c:\Users\1\Desktop\final\c.jpg" alt="c:\Users\1\Desktop\final\c.jpg" style="height:280px;margin-right:12px">
 <img src="c:\Users\1\Desktop\final\p.jpg" alt="c:\Users\1\Desktop\final\p.jpg" style="height:280px">
 </div>
